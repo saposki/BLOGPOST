@@ -1,0 +1,3 @@
+JavaScript Tutor - Visualize code execution to learn Javascript Online (saposkiblog)
+
+The idea of visualization excites me. As as a learning aid for programming, it even excites me more. The javascript code execution visualize http://www.pythontutor.com/javascript.html#mode=edit is an amazing resource for visualizing your code as it run. You may have a blackbox understanding of what your codes does from its output. But seeing how your code arrives at its justified expectation is the when all the fun begins. That insight if i may a valuable stepping stone to mastery debugging - an indispensable language agnostic skill.  Lets use this resource to go under the hood of a snippet of code in an attempt to solidifying our understanding of pass by value and pass by reference
